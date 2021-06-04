@@ -3,3 +3,6 @@
 
 <1st>
 Linked list 구현
+
+<2nd>
+Sortings 구현, N에 따른 시간 변화 확인
