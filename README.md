@@ -9,3 +9,6 @@ Sortings 구현, N에 따른 시간 변화 확인
 
 <3rd>
 Hash 구현. Two_dimensional(이차원), Linear(선형), Chaining(체이닝)
+
+<4th>
+Disjoint set 구현. union-set.
