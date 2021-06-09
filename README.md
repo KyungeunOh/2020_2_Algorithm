@@ -18,3 +18,6 @@ TSP. Travelling salesman problem 외판원 문제.
 
 <6th>
 Floyd, Simple Shortest Path.
+
+<7th>
+Kruskal, Prim algorithm.
