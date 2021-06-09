@@ -21,3 +21,6 @@ Floyd, Simple Shortest Path.
 
 <7th>
 Kruskal, Prim algorithm.
+
+<8th>
+Back Tracking Aloghrithm.
