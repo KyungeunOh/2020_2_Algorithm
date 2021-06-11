@@ -24,3 +24,6 @@ Kruskal, Prim algorithm.
 
 <8th>
 Back Tracking Aloghrithm.
+
+<9th>
+Knapsack problem. DFS, BFS, BestFirst algorithm.
